@@ -1,7 +1,1 @@
 export EDITOR="mate -w"
-
-# MacPorts: adding an appropriate PATH variable for use with MacPorts.
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH:/usr/local/mysql/bin
-
-# MacPorts: adding an appropriate MANPATH variable for use with MacPorts.
-export MANPATH=/opt/local/share/man:$MANPATH

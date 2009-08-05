@@ -1,3 +1,13 @@
+# cd
+alias up='cd ..'
+alias up2='cd ../..'
+alias up3='cd ../../..'
+alias up4='cd ../../../..'
+alias p='cd ~/Documents/Projects'
+
+# grep
+alias grep='grep --color'
+
 # ls
 alias l="ls -l"
 alias ll="ls -al"
