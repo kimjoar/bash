@@ -1,1 +1,2 @@
 # http://github.com/josh/bash/tree/master
+source ~/.bash/git-completion
