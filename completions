@@ -1,2 +1,4 @@
-# http://github.com/josh/bash/tree/master
+# Should include http://github.com/josh/bash/tree/master
+
+# From the Git Tarball: http://kernel.org/pub/software/scm/git/
 source ~/.bash/git-completion

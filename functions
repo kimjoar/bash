@@ -2,3 +2,6 @@ function tweet {
   curl -n -d status="$*" https://twitter.com/statuses/update.xml --insecure &> /dev/null
   echo "tweet'd"
 }
+
+# http://github.com/micha/resty/tree/master
+source ~/.bash/resty

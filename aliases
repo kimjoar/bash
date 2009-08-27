@@ -15,3 +15,6 @@ alias ll="ls -al"
 alias ss='./script/server'
 alias sc='./script/console'
 alias rst='touch tmp/restart.txt'
+
+# ssh
+alias subsys='ssh kimjoar@server2.subsys.no'
